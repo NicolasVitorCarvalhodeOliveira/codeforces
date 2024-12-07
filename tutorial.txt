@@ -1,0 +1,7 @@
+CREATE:
+    WHERE:
+        "{programing_language_folder}"
+        "utils/fileInputs/{Problem}"
+        Create your file on the respect folder for the language that you are using.
+    NAME CONVENSION:
+    

@@ -207,4 +207,3 @@ for ($i = 0; $i < count($allArrays); $i++) {
   $originalArr = $segmentsArr;
   main($originalArr);
 }
-?>
