@@ -1,0 +1,1 @@
+php --file ../../php/2050A_Line_Breaks.php < ../fileInputs/2050A_Line_Breaks.txt
