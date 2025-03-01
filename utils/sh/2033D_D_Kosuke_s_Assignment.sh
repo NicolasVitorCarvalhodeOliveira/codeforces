@@ -1,0 +1,1 @@
+php --file ../../php/2033D_D_Kosuke_s_Assignment.php < ../fileInputs/2033D_D_Kosuke_s_Assignment.txt
